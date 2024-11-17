@@ -1,0 +1,19 @@
+{
+  "name": "supply-chain-prototype",
+  "version": "0.0.1",
+  "description": "This is a module for researching NPM-based supply-chain attacks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manchicken/supply-chain-research.git"
+  },
+  "author": "Mike Stemle",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/manchicken/supply-chain-research/issues"
+  },
+  "homepage": "https://github.com/manchicken/supply-chain-research#readme"
+}
