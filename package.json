@@ -1,5 +1,5 @@
 {
-  "name": "supply-chain-prototype",
+  "name": "@manchicken/supply-chain-research",
   "version": "0.0.1",
   "description": "This is a module for researching NPM-based supply-chain attacks.",
   "main": "index.js",
